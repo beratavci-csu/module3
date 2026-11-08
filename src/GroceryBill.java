@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//No Corrections, program runs as intended
 public class GroceryBill {
 	public static void main (String [] args) {
 		Scanner scnr = new Scanner(System.in);
